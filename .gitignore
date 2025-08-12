@@ -39,3 +39,18 @@
 
 # debug information files
 *.dwo
+
+# Git/Github files
+.git/
+.github/
+
+# Visual Studio files
+.vs/
+.vsconfig
+*.sln
+
+# Unreal Engine directories
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
